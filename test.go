@@ -1,6 +1,6 @@
 package test
 
 func test() {
-	a := 123
+	a := 12345
 	println(a)
 }
